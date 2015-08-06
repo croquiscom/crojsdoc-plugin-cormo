@@ -1,0 +1,7 @@
+title: An example of crojsdoc-plugin-cormo
+quite: true
+files: true
+sources:
+  - src
+plugins:
+  - crojsdoc-plugin-cormo

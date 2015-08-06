@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "crojsdoc": "^0.8.14",
+    "crojsdoc-plugin-cormo": "^0.1.0"
+  },
+  "scripts": {
+    "doc": "node node_modules/.bin/crojsdoc"
+  }
+}

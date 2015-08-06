@@ -1,0 +1,20 @@
+{
+  "name": "crojsdoc-plugin-cormo",
+  "description": "A CroJSDoc plugin that parses CORMO model definitions",
+  "version": "0.1.0",
+  "keywords": [
+    "crojsdoc",
+    "plugin"
+  ],
+  "homepage": "https://github.com/croquiscom/crojsdoc-plugin-cormo",
+  "bugs": {
+    "url": "https://github.com/croquiscom/crojsdoc-plugin-cormo/issues"
+  },
+  "repository": "croquiscom/crojsdoc-plugin-cormo",
+  "author": "Sangmin Yoon <sangmin.yoon@croquis.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "coffee -c -o lib src"
+  }
+}
