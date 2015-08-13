@@ -1,7 +1,7 @@
 {
   "name": "crojsdoc-plugin-cormo",
   "description": "A CroJSDoc plugin that parses CORMO model definitions",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "keywords": [
     "crojsdoc",
     "plugin"
