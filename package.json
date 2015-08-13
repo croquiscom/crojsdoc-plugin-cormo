@@ -16,5 +16,8 @@
   "main": "lib/index.js",
   "scripts": {
     "build": "coffee -c -o lib src"
+  },
+  "dependencies": {
+    "inflect": "^0.3.0"
   }
 }

@@ -12,3 +12,7 @@ class User extends cormo.Model
   ##
   # The age of the user
   @column 'age', type: cormo.types.Integer, required: true
+
+  ##
+  # The team where the user belongs to
+  @belongsTo 'team'
